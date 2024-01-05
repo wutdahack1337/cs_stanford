@@ -1,2 +1,2 @@
 # cs_stanford
-Stanford &amp; free computer science courses
+Stanford và free computer science courses
